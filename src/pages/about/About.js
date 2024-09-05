@@ -1,6 +1,6 @@
 import React from "react";
-import Footer from "../../components/footer/Footer";
 import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
 import Banner from "../../components/banner/Banner";
 import imgBannerAbout from "../../assets/images/banner/aboutBanner.png";
 import Collapse from "../../components/collapse/Collapse";

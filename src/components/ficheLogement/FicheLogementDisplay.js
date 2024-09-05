@@ -2,10 +2,11 @@
 import { useParams, Navigate } from "react-router-dom";
 import DataFichLogement from "../../datas/logement.json";
 import Tag from "./Tag";
+import Host from "./Host";
 import Collapse from "../collapse/Collapse";
 import Carrousel from "./Carrousel";
 import Rate from "./Rate";
-import Host from "./Host";
+
 
 const FicheLogementDisplay = () => {
   /* Récupère la bonne fiche */

@@ -1,7 +1,8 @@
 import React from "react";
 import FicheLogementDisplay from "../../components/ficheLogement/FicheLogementDisplay";
-import Footer from "../../components/footer/Footer";
 import Header from "../../components/header/Header";
+import Footer from "../../components/footer/Footer";
+
 
 const FichLogment = () => {
   return (
